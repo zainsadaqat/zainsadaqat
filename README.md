@@ -19,3 +19,11 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zain-sadaqat/)
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zain.sadaqet@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zain-sadaqat)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zainsadaqat&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="zainsadaqat" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zainsadaqat&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="Zain Sadaqat" /></p>
+
+
+<img align='center'  height="70" alt="Thanks" width="100%" src="Thanks.svg"/> 
+
