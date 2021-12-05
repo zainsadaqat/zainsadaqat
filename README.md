@@ -22,7 +22,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zainsadaqat&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="zainsadaqat" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zainsadaqat&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="Zain Sadaqat" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zainsadaqat&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="Zain Sadaqat" /></p>
+
+![Snake animation](https://github.com/zainsadaqat/zainsadaqat/blob/output/github-contribution-grid-snake.svg)
 
 
 <img align='center'  height="70" alt="Thanks" width="100%" src="Thanks.svg"/> 
