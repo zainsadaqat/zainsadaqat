@@ -20,10 +20,6 @@
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zain.sadaqet@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zain-sadaqat)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zainsadaqat&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="zainsadaqat" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zainsadaqat&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="Zain Sadaqat" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zainsadaqat&" alt="zainsadaqat" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zainsadaqat&show_icons=true&locale=en" alt="zainsadaqat" /></p>
