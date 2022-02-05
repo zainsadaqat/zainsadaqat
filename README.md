@@ -1,6 +1,6 @@
 ![CoverImage](/cover-image.jpg)
 
-<h2>Hello, my name is Zain Sadaqat <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
+<h1>Hello, my name is Zain Sadaqat <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 <p>I’m currently enrolled in a remote software development school (Microverse) where we spend 8+ hours every day working on different projects using the latest technologies by pair-programming with students from all over the world.</p>
 
 <a href="https://github.com/zainsadaqat" target="_blank">
@@ -10,7 +10,7 @@
     <img src="https://komarev.com/ghpvc/?username=zainsadaqat&label=Profile%20views&color=0e75b6&style=flat" alt="zainsadaqat" />
   </a> 
   
-## Connect with Me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="40px" />
+# Connect with Me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="40px" />
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zain__sadaqat/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/zain_sadaqat)
