@@ -21,13 +21,12 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zain-sadaqat)
 
 <div align="center">
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zainsadaqat&" alt="zainsadaqat" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zainsadaqat&show_icons=true&locale=en" alt="zainsadaqat" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zainsadaqat&show_icons=true&locale=en&layout=compact" alt="zainsadaqat" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zainsadaqat&show_icons=true&locale=en&layout=compact" alt="zainsadaqat" /></p>
+<img align='center'  height="70" alt="Thanks" width="100%" src="Thanks.svg"/> 
 </div>
 <!-- ![Snake animation](https://github.com/zainsadaqat/zainsadaqat/blob/output/github-contribution-grid-snake.svg) -->
 
 
-<img align='center'  height="70" alt="Thanks" width="100%" src="Thanks.svg"/> 
 
