@@ -20,13 +20,11 @@
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zain.sadaqet@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zain-sadaqat)
 
-
+<div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zainsadaqat&show_icons=true&locale=en&layout=compact" alt="zainsadaqat" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zainsadaqat&" alt="zainsadaqat" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zainsadaqat&show_icons=true&locale=en" alt="zainsadaqat" /></p>
-
+</div>
 <!-- ![Snake animation](https://github.com/zainsadaqat/zainsadaqat/blob/output/github-contribution-grid-snake.svg) -->
 
 
