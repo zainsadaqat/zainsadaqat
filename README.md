@@ -27,7 +27,5 @@
 <img align='center'  height="70" alt="Thanks" width="100%" src="Thanks.svg"/> 
 </div>
 
-![Snake animation](https://github.com/zainsadaqat/zainsadaqat/blob/output/github-contribution-grid-snake.svg)
-
 
 
