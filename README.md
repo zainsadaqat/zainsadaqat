@@ -15,7 +15,6 @@
 
 
 <h1>Hey, my name is Zain Sadaqat</h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<br/>
 <p>I’m currently enrolled in a remote software development school (Microverse) where we spend 8+ hours every day working on different projects using the latest technologies by pair-programming with students from all over the world.</p>
   
 ## Feel Free To Connect With Me! <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="40px" />
