@@ -9,7 +9,7 @@
    </a> 
 </div>
 <br />
-Hey, my name is Zain Sadaqat
+# Hey, my name is Zain Sadaqat
 <br/>
 <p>I’m currently enrolled in a remote software development school (Microverse) where we spend 8+ hours every day working on different projects using the latest technologies by pair-programming with students from all over the world.</p>
   
