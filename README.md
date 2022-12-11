@@ -9,7 +9,7 @@
 </div>
 
 <h1>Hello, my name is Zain Sadaqat! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-
+<br />
 <p>Hello, I'm Zain Sadaqat, 24 years old based in Pakistan 🇵🇰</p>
 <p>I'm a Software Engineer currently working as a Technical Support Engineer in an EdTech company with a Bachelor's in Computer Science and spent 1400+ hours working remotely with developers from 50+ countries. Comfortable working in any time zones :)</p>
 <br/>
