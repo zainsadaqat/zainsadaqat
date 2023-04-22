@@ -30,4 +30,4 @@
 <div>
     <img align='center'  height="70" alt="Thanks" width="100%" src="Thanks.svg"/>
 </div>
-</div>
+</div> 
