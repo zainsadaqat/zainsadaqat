@@ -7,7 +7,7 @@
         <img src="https://komarev.com/ghpvc/?username=zainsadaqat&label=Profile%20views&color=0e75b6&style=flat" alt="zainsadaqat" />
    </a>  
 </div>      
-<br />    
+<br />     
 <h1>Hello, I'm Zain Sadaqat, 24 years old based in Pakistan 🇵🇰<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <br />  
 <p>I'm a Associate Software Developer with a Bachelor's in Computer Science, Comfortable working in any time zones :)</p>
