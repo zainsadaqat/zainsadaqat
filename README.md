@@ -6,7 +6,7 @@
     <a href="https://github.com/zainsadaqat" target="_blank">
         <img src="https://komarev.com/ghpvc/?username=zainsadaqat&label=Profile%20views&color=0e75b6&style=flat" alt="zainsadaqat" />
    </a>  
-</div>       
+</div>        
 <br />     
 <h1>Hello, I'm Zain Sadaqat, 24 years old based in Pakistan 🇵🇰<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <br />  
