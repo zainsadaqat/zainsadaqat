@@ -1,5 +1,5 @@
 <image src="./images/github-cover-image-for-readme-file.jpg" /> 
-<div>          
+<div>           
     <a href="https://github.com/zainsadaqat" target="_blank">
         <img alt="GitHub followers" src="https://img.shields.io/github/followers/zainsadaqat?label=Github&style=flat">
     </a> 
