@@ -10,7 +10,7 @@
 <br />  
 <h1>Hello, I'm Zain Sadaqat, 25 years old based in Pakistan 🇵🇰<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <br />  
-<p>Software Engineer with BSc. in Computer Science skilled in JavaScript, ReactJS, NextJS, and NodeJS, Comfortable working in any time zones :)</p>
+<p>Software Engineer with BSc. in Computer Science, Certified Full Stack Web Developer by Microverse skilled in JavaScript, ReactJS, NextJS, NodeJS, and Ruby on Rails. Comfortable working in any time zones :)</p>
 <br/> 
 <div align="center">
 <h2>Feel Free To Connect With Me!</h2>
