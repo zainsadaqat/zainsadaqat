@@ -13,7 +13,7 @@
 <p>Software Engineer with BSc. in Computer Science, Certification in Full Stack Web Development from Microverse skilled in JavaScript, ReactJS, NextJS, NodeJS, and Ruby on Rails having experience working in diverse remote environments with developers from all over the world. Comfortable working in any time zones :)</p>
 <br/> 
 <div align="center">
-<h2>Feel Free To Connect With Me!</h2>
+<h2>Feel free to contact me!</h2>
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/zain_sadaqat)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7530518/zain-sadaqat)
