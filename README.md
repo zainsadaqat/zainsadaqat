@@ -12,6 +12,7 @@
 <br />  
 <p>Software Engineer with BSc. in Computer Science, Certification in Full Stack Web Development from Microverse skilled in JavaScript, ReactJS, NextJS, NodeJS, and Ruby on Rails having experience working in diverse remote environments with developers from all over the world. Comfortable working in any time zones :)</p>
 <br/>
+<p>Transforming Ideas into Seamless Solutions 🚀 | Full-stack Developer with expertise in JavaScript, ReactJS, NextJS, NodeJS, and MERN stack | Passionate about creating innovative, user-centric software solutions | Ready to code for your success! 💻🌟 </p>
 <div align="center">
 <h2>Feel free to contact me!</h2>
 
