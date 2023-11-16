@@ -3,7 +3,7 @@
     <a href="https://github.com/zainsadaqat" target="_blank">      
         <img alt="GitHub followers" src="https://img.shields.io/github/followers/zainsadaqat?label=Github&style=flat"> 
     </a>        
-    <a href="https://github.com/zainsadaqat" target="_blank"> 
+    <a href="https://github.com/zainsadaqat" target="_blank">  
         <img src="https://komarev.com/ghpvc/?username=zainsadaqat&label=Profile%20views&color=0e75b6&style=flat" alt="zainsadaqat" />
    </a>  
 </div> 
