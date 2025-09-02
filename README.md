@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hi, I’m Zain</h1>
-<h3 align="center">Online Computer Science Tutor | Helping Kids, Adults & Career Changers Learn to Code</h3>
+<h3 align="center">Online Computer Science Tutor | Helping Kids, Teens, Adults & Career Changers Learn to Code</h3>
 
 <!-- Animated Typing -->
 <p align="center">
@@ -10,8 +10,8 @@
 ---
 
 ### 🌟 About Me
-- 🎓 I teach **IGCSE, GCSE, A-Level, AP CSP/CSA, CompTIA**  
-- 🌍 Founder of **[tewtors](https://tewtors.com/)** – a non-profit tutors directory to help students find the right tutor without paying any commissions  
+- 🎓 I teach **IGCSE, IB, A-Level, AP CSP/CSA, CompTIA**  
+- 🌍 Founder of **[tewtors](https://tewtors.com/)** – a non-profit tutors directory to help students find the right tutor without paying anything extra
 - 💡 My approach: clear explanations, real-world coding, and confidence-building  
 - 📚 Passionate about **Web Development, Computer Science, and Artificial Intelligence**
 
@@ -24,7 +24,7 @@
 
 ### 🛠️ Tech I Teach & Use
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,react,nextjs,python,html,css,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=javascript,react,typescript,nextjs,python,html,css,github,vscode" />
 </p>
 
 ---
