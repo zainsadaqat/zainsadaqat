@@ -10,7 +10,7 @@
 ---
 
 ### 🌟 About Me
-- 🎓 I teach **IGCSE, IB, A-Level, AP CSP/CSA, CompTIA**  
+- 🎓 I teach **IGCSE, IB, A-Level, AP CSP/CSA, CompTIA** at **[cs101.co](https://cs101.co/)** 
 - 🌍 Founder of **[tewtors](https://tewtors.com/)** – a non-profit tutors directory to help students find the right tutor without paying anything extra
 - 💡 My approach: clear explanations, real-world coding, and confidence-building  
 - 📚 Passionate about **Web Development, Computer Science, and Artificial Intelligence**
